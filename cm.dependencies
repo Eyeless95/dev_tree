@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "android_device_samsung_g531h",
+    "target_path": "kernel/samdung/g531h",
+    "branch": "5.1"
+  }
+]
