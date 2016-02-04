@@ -81,6 +81,9 @@ TW_INCLUDE_L_CRYPTO := true
 TW_HAS_DOWNLOAD_MODE := true
 TW_SCREEN_BLANK_ON_BOOT := true
 
+BOARD_FORCE_RILD_AS_ROOT                    := true
+BOARD_MOBILEDATA_INTERFACE_NAME             := "rmnet0"
+BOARD_RIL_CLASS                             := ../../../device/samsung/g531h/ril/
 
 BOARD_USES_GENERIC_AUDIO := true
 USE_CAMERA_STUB := true

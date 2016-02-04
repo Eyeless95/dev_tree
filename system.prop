@@ -1,3 +1,5 @@
 #
 # system.prop for g531h
 #
+
+ro.telephony.ril_class=SamsungSPRDRIL
